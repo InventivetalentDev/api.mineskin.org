@@ -36,7 +36,7 @@
     "file-type": "^16.1.0",
     "form-data": "^3.0.0",
     "hasha": "^5.1.0",
-    "image-size": "^0.9.3",
+    "image-size": "^1.0.0",
     "imghash": "^0.0.9",
     "influx": "^5.7.0",
     "ip": "^1.1.5",
