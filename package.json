@@ -45,7 +45,7 @@
     "md5": "^2.2.1",
     "metrics-node": "^1.0.0",
     "mongoose": "^5.12.2",
-    "mongoose-int32": "^0.4.1",
+    "mongoose-int32": "^0.5.0",
     "morgan": "^1.9.1",
     "nodemailer": "^6.5.0",
     "querystring": "^0.2.1",
