@@ -32,7 +32,7 @@
     "express-fileupload": "^1.1.5",
     "express-git-puller": "^2.0.4",
     "express-rate-limit": "^5.2.6",
-    "express-session": "^1.17.1",
+    "express-session": "^1.17.2",
     "file-type": "^16.1.0",
     "form-data": "^3.0.0",
     "hasha": "^5.1.0",
