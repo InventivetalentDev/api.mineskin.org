@@ -51,7 +51,7 @@
     "querystring": "^0.2.1",
     "read-chunk": "^3.2.0",
     "remote-file-size": "^3.0.5",
-    "rotating-file-stream": "^1.4.4",
+    "rotating-file-stream": "^2.1.5",
     "source-map-support": "^0.5.19",
     "tmp": "0.2.1",
     "tunnel-ssh": "^4.1.4",
